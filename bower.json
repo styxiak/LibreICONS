@@ -1,0 +1,20 @@
+{
+  "name": "LibreICONS",
+  "homepage": "http://studiojunkyard.github.io/LibreICONS/",
+  "authors": [
+    "(Studio Junkyard <dennis@studiojunkyard.com>)"
+  ],
+  "description": "Free (as in Cost, and Liberty) SVG Icon Library",
+  "main": "",
+  "keywords": [
+    "icons"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
